@@ -1,0 +1,17 @@
+{
+  "name": "playwright-login-tests",
+  "version": "1.0.0",
+  "description": "This project includes automated test cases for login functionality on [SauceDemo](https://www.saucedemo.com), written using Playwright and TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1",
+    "playwright": "^1.53.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
