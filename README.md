@@ -45,11 +45,6 @@ npx playwright show-report
 
 ```
  
-=======
 # Software-Testing-Projects
 This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
->>>>>>> 67f5895e18f12649e0d4983125bdec9ad1159eea
-=======
-# Software-Testing-Projects
-This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
->>>>>>> 67f5895e18f12649e0d4983125bdec9ad1159eea
+ 
