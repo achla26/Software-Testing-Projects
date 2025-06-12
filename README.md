@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # SauceDemo Login Automation Project 🚀
 
 This repository contains an automated test suite for the login functionality of [SauceDemo](https://www.saucedemo.com), built using **Playwright** and **TypeScript**. It includes complete documentation such as test plans, test cases, bug reports, and more – designed for learning and real-world QA portfolio building.
